@@ -2,7 +2,6 @@
 terms of service smile anti-link 🌱
 
 
-
 ## 1. Acceptance of Terms
 By inviting and using Anti-Links Bot ("the Bot") in your Discord server, you agree to be bound by these Terms of Service. If you do not agree, please remove the Bot from your server immediately.
 
@@ -25,4 +24,4 @@ The server owner or the Bot developer may terminate access at any time. Upon rem
 These Terms may be updated from time to time. Continued use of the Bot after changes constitutes acceptance of the new Terms.
 
 ## 7. Contact
-For questions or support, please contact: [Insert your Discord username or support server link]
+For questions or support, please contact: https://discord.gg/hfz8h6Czkt / smile.support.official@gmail.com
